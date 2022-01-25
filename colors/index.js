@@ -1,1 +1,1 @@
-export * from './src/_colors.js';
+export * from './sddrc/_colors.js';
